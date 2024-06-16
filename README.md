@@ -12,7 +12,7 @@ Dictyostelium purpureum - вид Dictyostelium, известных как сли
 
 [Colab](https://colab.research.google.com/drive/1TtuWUYpw2ytzgnuoeoqGSkHJRg3XS7qr?usp=sharing)
 
-[Colab 2]()
+[Colab 2](https://colab.research.google.com/drive/1W_ZK-l8apvxyalwvw6lfscamdyz-UUh5?usp=sharing)
 
 [ZDNABERT](https://colab.research.google.com/github/mitiau/Z-DNABERT/blob/main/ZDNA-prediction.ipynb)
 
