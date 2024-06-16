@@ -44,3 +44,20 @@ Downstream  | 73 | 43% | 453 | 63% | 523 | 65%
 Intergenic | 116 | 69% | 634 | 88% | 665 | 82% 
 
 ### Выравнивание
+
+1)
+
+![](https://github.com/inlkbr/Dictyostelium_purpureum/blob/5134ecd60c82d4efc0f36f3050b070ccd1a6226a/a1.png)
+![](https://github.com/inlkbr/Dictyostelium_purpureum/blob/5134ecd60c82d4efc0f36f3050b070ccd1a6226a/t1.jpg)
+
+2)
+
+![](https://github.com/inlkbr/Dictyostelium_purpureum/blob/5134ecd60c82d4efc0f36f3050b070ccd1a6226a/a2.png)
+![](https://github.com/inlkbr/Dictyostelium_purpureum/blob/5134ecd60c82d4efc0f36f3050b070ccd1a6226a/t2.jpg)
+
+3)
+
+![](https://github.com/inlkbr/Dictyostelium_purpureum/blob/5134ecd60c82d4efc0f36f3050b070ccd1a6226a/a3.png)
+![](https://github.com/inlkbr/Dictyostelium_purpureum/blob/5134ecd60c82d4efc0f36f3050b070ccd1a6226a/t3.jpg)
+
+
